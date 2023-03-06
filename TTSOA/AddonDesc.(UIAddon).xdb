@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UIAddon>
+ <Name>TTS:AO</Name>
+ <AutoStart>true</AutoStart>
+ <ScriptFileRefs>
+	<Item href="/Mods/SampleCommon/SampleAddonBase.lua"/>
+	<Item href="scripts/main.lua"/>
+ </ScriptFileRefs>
+
+<addon_name>TTS:AO</addon_name>
+
+<localizedNameFileRef href="name.txt"/>
+<localizedDescFileRef href="desc.txt"/>
+</UIAddon>
